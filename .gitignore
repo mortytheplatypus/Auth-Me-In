@@ -1,0 +1,9 @@
+.vscode
+
+/auth-me-in-frontend/node_modules
+/auth-me-in-frontend/.env
+/auth-me-in-frontend/build
+
+/auth-me-in-backend/.idea
+/auth-me-in-backend/target
+
